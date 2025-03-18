@@ -27,8 +27,8 @@ export default defineConfig({
     },
     optimizeDeps: { include: ['leaflet'] }
   },
-  site: 'https://hellotham.github.io',
-  base: '/siam-web/',
+  site: 'https://DiegoQuevedoTIC.github.io',
+  base: '/SiamWeb/',
   integrations: [icon(), sitemap(), alpinejs(), robotsTxt(), markdoc(), expressiveCode(), mdx()],
   markdown: {
     extendDefaultPlugins: true,

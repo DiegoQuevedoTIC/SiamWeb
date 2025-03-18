@@ -1,0 +1,16 @@
+---
+import Lightbox from './lightbox.astro'
+
+export interface Props {
+  images: ImageMetadata[]
+}
+
+const { images } = Astro.props
+---
+
+<p class='text-sm text-gray-500 italic'>
+  Haga clic en cualquier foto para verla en una caja de luz. Use las flechas o deslice el dedo para navegar.
+</p>
+<div id='images' class='not-prose block w-full' itemscope itemtype='http://schema.org/ImageGallery'>
+  <Lightbox id='images' images={images} />
+</div>

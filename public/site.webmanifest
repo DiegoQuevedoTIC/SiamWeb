@@ -1,0 +1,8 @@
+{
+  "name": "Hola Siam",
+  "short_name": "Hola-Siam",
+  "icons": [
+    { "src": "/siam.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/siamdark.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}

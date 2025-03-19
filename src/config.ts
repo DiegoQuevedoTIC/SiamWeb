@@ -37,8 +37,7 @@ export const NavigationLinks = [
   { name: 'Nosotros', href: 'about' },
   { name: 'Contactanos', href: 'contact' },
   { name: 'Blog', href: 'blog' },
-  { name: 'Productos', href: 'doc/introduction' },
-  { name: 'Servicios', href: 'doc/servicios' }
+  { name: 'Servicios', href: 'doc/introduction' }
 ]
 
 export const PAGE_SIZE = 6

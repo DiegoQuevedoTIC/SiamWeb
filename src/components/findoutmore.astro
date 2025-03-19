@@ -5,42 +5,36 @@ import HTMLSVG from '../assets/svg/undraw/undraw_static_assets.svg'
 
 const callouts = [
 {
-    name: 'Laravel',
     description: 'Un framework de PHP para el desarrollo de aplicaciones web modernas y escalables.',
     imageSrc: '\Logo.min.svg.png',
     imageAlt: 'Laravel logo',
     href: 'https://laravel.com'
   },
   {
-    name: 'Python',
     description: 'Un lenguaje de programación versátil y potente para desarrollo web, ciencia de datos e inteligencia artificial.',
     imageSrc: '\python-3.svg',
     imageAlt: 'python logo',
     href: 'https://www.python.org'
   },
   {
-    name: 'PostgreSQL',
     description: 'Base de datos relacional avanzada, ideal para aplicaciones empresariales de alto rendimiento.',
     imageSrc: '\postgresql.png',
     imageAlt: 'postgresql logo',
     href: 'https://www.postgresql.org'
   },
   {
-    name: 'Angular',
     description: 'Un framework de desarrollo frontend robusto para crear aplicaciones web dinámicas y escalables.',
-    imageSrc: '\Angular.png',
-    imageAlt: 'Angular logo',
+    imageSrc: '\angular.svg',
+    imageAlt: 'angular logo',
     href: 'https://angular.io'
   },
   {
-    name: 'TensorFlow',
     description: 'Biblioteca de aprendizaje automático y redes neuronales para soluciones de IA avanzadas.',
     imageSrc: '\TensorFlow.png',
     imageAlt: 'TensorFlow logo',
     href: 'https://www.tensorflow.org'
   },
   {
-    name: 'Azure',
     description: 'Plataforma en la nube de Microsoft para el desarrollo y despliegue de soluciones escalables y seguras.',
     imageSrc: '\microsoft-azure.svg',
     imageAlt: 'Microsoft Azure logo',
@@ -50,15 +44,15 @@ const callouts = [
 ]
 ---
 
-<div class='bg-purple-100 dark:bg-purple-900'>
+<div class='bg-purple-100 dark:bg-gray-900'>
   <div class='mx-auto max-w-7xl px-4 sm:px-6 lg:px-8'>
     <div class='mx-auto max-w-2xl py-16 sm:py-24 lg:max-w-none lg:py-32'>
-      <h2 class='text-4xl text-center font-extrabold text-purple-800 dark:text-purple-200'>Stack de desarrollo</h2>
-      <div class='mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0'>
+      <h2 class='text-4xl text-center font-extrabold text-purple-800 dark:text-purple-200'>🚀 Tecnologías que Impulsan Nuestro Desarrollo</h2>
+      <div class='mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0 '>
         {
           callouts.map((callout) => (
             <div class='group relative'>
-              <div class='sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 relative h-80 w-full overflow-hidden rounded-lg bg-white group-hover:opacity-55 sm:h-64 dark:bg-white-600'>
+              <div class='sm:aspect-h-1 sm:aspect-w-2 lg:aspect-h-1 lg:aspect-w-1 relative h-80 w-full overflow-hidden rounded-lg  group-hover:opacity-20 sm:h-64 dark:bg-white-600'>
                 <img
                   src={callout.imageSrc}
                   alt={callout.imageAlt}
@@ -69,7 +63,7 @@ const callouts = [
               <h3 class='mt-6 text-2xl text-purple-500 dark:text-purple-300'>
                 <a href={callout.href}  target="_blank" rel="noopener noreferrer">
                   <span class='absolute inset-0' />
-                  {callout.name}
+                  
                 </a>
               </h3>
               <p class='text-base text-gray-900 dark:text-gray-100'>{callout.description}</p>

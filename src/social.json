@@ -1,38 +1,38 @@
 [
   {
     "id": "email",
-    "name": "Email",
-    "link": "mailto:info@hellothamcom",
+    "name": "Correo Electronico",
+    "link": "informacion@siamsoftcolombia.com",
     "icon": "envelope"
   },
   {
     "id": "facebook",
     "name": "Facebook",
-    "link": "https://www.facebook.com/hellothamcom",
+    "link": "https://www.facebook.com/siamsoftcolombia",
     "icon": "facebook"
   },
   {
     "id": "github",
     "name": "Github",
-    "link": "https://github.com/hellotham",
+    "link": "https://github.com/siamsoftcolombia",
     "icon": "github"
   },
   {
     "id": "instagram",
     "name": "Instagram",
-    "link": "https://www.instagram.com/hellothamcom",
+    "link": "https://www.instagram.com/siamsoftcolombia",
     "icon": "instagram"
   },
   {
     "id": "linkedIn",
     "name": "LinkedIn",
-    "link": "https://www.linkedin.com/hellothamcom",
+    "link": "https://www.linkedin.com/siamsoftcolombia",
     "icon": "linkedin"
   },
   {
     "id": "phone",
-    "name": "Phone",
-    "link": "tel:555-5555",
+    "name": "Telefono",
+    "link": "+57 ",
     "icon": "telephone"
   }
 ]

@@ -1,10 +1,10 @@
 ---
-section: Section Header
-title: Page 3
-description: Lorem ipsum dolor sit amet - 3
+section: 🌟 Nuestros Servicios
+title:  🌱 **¿Cómo Empezar?**  
+description: Transformamos ideas en soluciones digitales innovadoras.
 ---
 
-This is a fully-featured page, written in Markdown!
+<!-- This is a fully-featured page, written in Markdown!
 
 ## Section A
 
@@ -35,3 +35,9 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**. Sed ut tortor _susc
 
 Nam quam dolor, pellentesque sed odio euismod, feugiat tempus tellus. Quisque arcu velit, ultricies in faucibus sed, ultrices ac enim. Nunc eget dictum est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ex nisi, egestas mollis ultricies ut, laoreet suscipit libero. Nam condimentum molestie turpis. Sed vestibulum sagittis congue. Maecenas tristique enim et tincidunt tempor. Curabitur ac scelerisque nulla, in malesuada libero. Praesent eu tempus odio. Pellentesque aliquam ullamcorper quam at gravida. Sed non fringilla mauris. Aenean sit amet ultrices erat. Vestibulum congue venenatis tortor, nec suscipit tortor. Aenean pellentesque mauris eget tortor tincidunt pharetra.
 ```
+ -->
+
+
+1️⃣ **Explora nuestros servicios** y descubre cómo podemos ayudarte.  
+2️⃣ **Contáctanos** para agendar una reunión estratégica.  
+3️⃣ **Impulsemos juntos tu negocio con tecnología de vanguardia.** 

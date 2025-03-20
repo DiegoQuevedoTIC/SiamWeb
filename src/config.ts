@@ -35,9 +35,9 @@ export { default as DefaultImage } from './assets/undraw/undraw_my_feed.png'
 export const NavigationLinks = [
   { name: 'Inicio', href: '' },
   { name: 'Nosotros', href: '/SiamWeb/about' },
-  { name: 'Contactanos', href: 'contact' },
-  { name: 'Blog', href: 'blog' },
-  { name: 'Servicios', href: 'doc/introduction' }
+  { name: 'Contactanos', href: '/SiamWeb/contact' },
+  { name: 'Blog', href: '/SiamWeb/blog' },
+  { name: 'Servicios', href: '/SiamWeb/doc/introduction' }
 ]
 
 export const PAGE_SIZE = 6

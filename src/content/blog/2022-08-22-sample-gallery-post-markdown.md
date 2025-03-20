@@ -1,5 +1,5 @@
 ---
-title: Sample Gallery post (Markdown!)Publicación de muestra de la galería (¡Markdown!)
+title: Publicación de muestra de la galería (¡Markdown!)
 description: Publicación de prueba con galería de fotos y lightbox (usando PhotoSwipe)
 author: diego-quevedo
 pubDate: 2022-08-22T00:00:00.000Z

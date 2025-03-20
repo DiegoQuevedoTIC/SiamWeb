@@ -63,7 +63,7 @@ const website: WithContext<WebSite> = {
   '@context': 'https://schema.org',
   '@type': 'WebSite',
   about: {
-    '@id': new URL('about', siteurl).toString()
+    '@id': new URL('/SiamWeb/about', siteurl).toString()
   },
   audience: 'public',
   abstract: SiteMetadata.description,

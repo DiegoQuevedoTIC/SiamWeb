@@ -34,8 +34,8 @@ export { default as DefaultImage } from './assets/undraw/undraw_my_feed.png'
 
 export const NavigationLinks = [
   { name: 'Inicio', href: '' },
-  { name: 'Nosotros', href: '/about' },
-  { name: 'Contactanos', href: '/contact' },
+  { name: 'Nosotros', href: '/siam-software.online/about' },
+  { name: 'Contactanos', href: '/siam-software.online/contact' },
   { name: 'Blog', href: '/blog' },
   { name: 'Servicios', href: '/doc/introduction' }
 ]

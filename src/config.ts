@@ -36,8 +36,8 @@ export const NavigationLinks = [
   { name: 'Inicio', href: '' },
   { name: 'Nosotros', href: '/siam-software.online/about' },
   { name: 'Contactanos', href: '/siam-software.online/contact' },
-  { name: 'Blog', href: '/blog' },
-  { name: 'Servicios', href: '/doc/introduction' }
+  { name: 'Blog', href: '/siam-software.online/blog' },
+  { name: 'Servicios', href: '/siam-software.online/doc/introduction' }
 ]
 
 export const PAGE_SIZE = 6
